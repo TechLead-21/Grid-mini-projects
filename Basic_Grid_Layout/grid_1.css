@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 5rem;
+  text-decoration: underline;
+}
+
+.basic-grid {
+  display: grid;
+  gap: 1rem;
+
+  /* grid-template-columns: repeat(12, 1fr); */
+
+  /* better sizing, but overflow */
+  /* grid-template-columns: repeat(12, minmax(240px, 1fr)); */
+
+  /* better sizing, and no overflows */
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
