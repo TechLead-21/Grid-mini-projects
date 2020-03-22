@@ -20,7 +20,7 @@ A very simple 12 column grid layout.
 
 ### Output :
 
-<img src="../Grid&#32;Project/display/basic-grid.png">
+![Basic Grid](https://res.cloudinary.com/techlead/image/upload/v1584872426/Github/lnjdddxos4rbc6mprgnf.png)
 
 <hr>
 
@@ -36,7 +36,7 @@ A very simple 12 column grid layout.
 ```
 
 ### Output :
-<img src="../Grid&#32;Project/display/photo_gallery.png">
+![Photo Gallery](https://res.cloudinary.com/techlead/image/upload/v1584872429/Github/t7xx6kpwjuad7lwhrfhx.png)
 
 <hr>
 
@@ -65,4 +65,4 @@ A very simple 12 column grid layout.
 ```
 
 ### Output :
-<img src="../Grid&#32;Project/display/animated_grid.png">
+![Animated Grid](https://res.cloudinary.com/techlead/image/upload/v1584872426/Github/wz0byflmhvmyldq80can.png)
